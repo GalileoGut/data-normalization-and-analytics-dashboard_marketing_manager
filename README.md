@@ -1,7 +1,7 @@
 # data-normalization-and-analytics-dashboard_marketing_manager
 # Data Normalization & Marketing Analytics Dashboard 📊
 
-![Dashboard Preview](https://github.com/tu-usuario/data-normalization-and-analytics-dashboard_marketing_manager/blob/main/tu-imagen.png?raw=true)
+![Dashboard](https://images.gemini.googleusercontent.com/blob/5742517865181184000)
 
 [CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://datastudio.google.com/reporting/9dff2c91-74f2-47e4-a922-0e62997b1e63)**
 
