@@ -1,4 +1,4 @@
-# data-normalization-and-analytics-dashboard_marketing_manager
+# amazon-campaigns-bi-dashboard
 # Data Normalization & Marketing Analytics Dashboard 📊 
 
 <img width="500" height="300" alt="imagen" src="https://github.com/user-attachments/assets/3d4d7aba-88b3-4b99-a9dc-6286ae77c0ef" />
