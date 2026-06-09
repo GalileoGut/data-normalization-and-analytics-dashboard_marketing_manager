@@ -1,7 +1,7 @@
 # data-normalization-and-analytics-dashboard_marketing_manager
 # Data Normalization & Marketing Analytics Dashboard 📊
 
-<img width="600" height="400" alt="imagen" src="https://github.com/user-attachments/assets/3d4d7aba-88b3-4b99-a9dc-6286ae77c0ef" />
+<img width="500" height="300" alt="imagen" src="https://github.com/user-attachments/assets/3d4d7aba-88b3-4b99-a9dc-6286ae77c0ef" />
 
 
 [CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://datastudio.google.com/reporting/9dff2c91-74f2-47e4-a922-0e62997b1e63)**
